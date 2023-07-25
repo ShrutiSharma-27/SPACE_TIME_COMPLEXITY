@@ -16,3 +16,5 @@
      if N = 1 million then
      ((1 million)^3 + log(1 million))
      = ((1 million)^3 + 6) , 6 is very small hence, ignored.
+5. Big-Oh Notation
+* Word Definition : O(N^3) represents upper bound. In simple language, it means that the complexity of that given graph can't exceed N^3.
