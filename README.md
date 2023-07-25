@@ -3,7 +3,8 @@
 1. Time Complexity != Time Taken
 2. Time complexity is a function that tells us how the time is going to grow as the input grows / Time complexity is a function that gives us the relationship about how the time will grow with growing input size.
 3. We care about large numbers (what will happen if input size is large like that) while talking about time complexity.
-4. What do we consider while thinking about complexity :
+4. We don't care about the actual time taken because that may vary from machine to machine.
+5. What do we consider while thinking about complexity :
    * Always look for worst case complexity (Definitely, you can optimize your  best case but more concern is given to worst case so that our code will run perfectly in that situation).
    * Always look at complexity for large/infinite data.
    * Even though value of actual time is different, they are all growing linearly.
