@@ -10,3 +10,4 @@
      <img width="849" alt="image" src="https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e88c10ad-8f2f-4cbb-89c9-918174a5b75b">
 
       * We don't care about the actual time taken because that may vary from machine to machine.
+      * This is why we ignore all constants.
