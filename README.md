@@ -6,7 +6,5 @@
 4. What do we consider while thinking about complexity :
    * Always look for worst case complexity (Definitely, you can optimize your  best case but more concern is given to worst case so that our code will run perfectly in that situation).
    * Always look at complexity for large/infinite data.
-   *
+   * Even though value of actual time is different, they are all growing linearly.
      <img width="849" alt="image" src="https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e88c10ad-8f2f-4cbb-89c9-918174a5b75b">
-
-     Even though value of actual time is different, they are all growing linearly.
