@@ -11,3 +11,6 @@
 
       * We don't care about the actual time taken because that may vary from machine to machine.
       * This is why we ignore all constants.
+   * Always ignore less dominating terms. Example : O(N^3 + logN)
+if N = 1 million then ((1 million)^3 + log(1 million))
+= ((1 million)^3 + 6) , 6 is very small hence, ignored.
