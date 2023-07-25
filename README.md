@@ -18,4 +18,6 @@
      = ((1 million)^3 + 6) , 6 is very small hence, ignored.
 5. Big-Oh Notation
 * Word Definition : O(N^3) represents upper bound. In simple language, it means that the complexity of that given graph can't exceed N^3.
-* Mathematical Definition : f(n) = O(g(n)) then
+* Mathematical Definition :
+
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7204b3b7-9a31-4623-8d8d-cd954ff6f760)
