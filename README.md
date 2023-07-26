@@ -23,14 +23,28 @@
 
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7204b3b7-9a31-4623-8d8d-cd954ff6f760)
 
+f(n) <= c.g(n) where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
+
 6. Big-Omega Notation
 * Word Definition : Ω(N^3) represents lower bound. In simple language, it means the minimum value of the complexity that given graph can have.
 * Mathematical Definition : if f(n) = Ω(g(n)) then,
   
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/9fe9508a-6da7-4632-8c30-2eccdade5072)
 
+f(n) >= c.g(n) where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
+
 7. Theta Notation :
-* Word Definition : θ(N^2) represents both upper bound and lower bound
+* Word Definition : θ(N^2) represents both upper bound and lower bound. It simply combines both the above notations.
 * Mathematical Definition : if f(n) = θ(g(n)) then,
 
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c5216f4d-9a32-4784-bcb4-5adfc3f90f80)
+
+c1.g(n) <= f(n) <= c2.g(n) where n >= nₒ and c1,c2>0 & nₒ>=1 are 2 positive constants.
+
+8. Small-O Notation :
+* Word Definition : Loose upperbound.
+* Mathematical Definition : if f(n) = o(g(n)) then,
+
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/795c3b3b-cb7d-4bad-a698-0ab6935d9bfa)
+
+f(n) < c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
