@@ -16,6 +16,7 @@
      if N = 1 million then
      ((1 million)^3 + log(1 million))
      = ((1 million)^3 + 6) , 6 is very small hence, ignored.
+     
 5. Big-Oh Notation
 * Word Definition : O(N^3) represents upper bound. In simple language, it means that the complexity of that given graph can't exceed N^3.
 * Mathematical Definition :
@@ -24,5 +25,12 @@
 
 6. Big-Omega Notation
 * Word Definition : Ω(N^3) represents lower bound. In simple language, it means the minimum value of the complexity that given graph can have.
+* Mathematical Definition : if f(n) = Ω(g(n)) then,
   
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/9fe9508a-6da7-4632-8c30-2eccdade5072)
+
+7. Theta Notation :
+* Word Definition : θ(N^2) represents both upper bound and lower bound
+* Mathematical Definition : if f(n) = θ(g(n)) then,
+
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c5216f4d-9a32-4784-bcb4-5adfc3f90f80)
