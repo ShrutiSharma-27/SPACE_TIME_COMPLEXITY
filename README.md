@@ -21,3 +21,5 @@
 * Mathematical Definition :
 
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7204b3b7-9a31-4623-8d8d-cd954ff6f760)
+
+6. Big-Omega Notation
