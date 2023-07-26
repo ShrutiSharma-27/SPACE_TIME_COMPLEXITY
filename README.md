@@ -23,3 +23,4 @@
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7204b3b7-9a31-4623-8d8d-cd954ff6f760)
 
 6. Big-Omega Notation
+* Word Definition : Ω(N^3) represents lower bound. In simple language, it means the minimum value of time complexity and it can ne
