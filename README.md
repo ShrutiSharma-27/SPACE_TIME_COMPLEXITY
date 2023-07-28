@@ -1,5 +1,7 @@
 # SPACE_TIME_COMPLEXITY
 
+## TIME COMPLEXITY :
+
 1. Time Complexity != Time Taken
 2. Time complexity is a function that tells us how the time is going to grow as the input grows / Time complexity is a function that gives us the relationship about how the time will grow with growing input size.
 3. We care about large numbers (what will happen if input size is large like that) while talking about time complexity.
@@ -56,3 +58,5 @@ f(n) < c.g(n) [strict inequality and stronger statement than that of big-O] wher
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/833726a8-3e85-4d1a-9a76-d6f05dbd436c)
 
 f(n) > c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
+
+## SPACE COMPLEXITY :
