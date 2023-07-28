@@ -41,10 +41,18 @@ f(n) >= c.g(n) where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
 
 c1.g(n) <= f(n) <= c2.g(n) where n >= nₒ and c1,c2>0 & nₒ>=1 are 2 positive constants.
 
-8. Small-O Notation :
+8. Small-Oh Notation :
 * Word Definition : Loose upperbound.
 * Mathematical Definition : if f(n) = o(g(n)) then,
 
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/795c3b3b-cb7d-4bad-a698-0ab6935d9bfa)
 
 f(n) < c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
+
+9. Small-Omega Notation :
+* Word Definition : Loose lowerbound
+* Mathematical Definition : if f(n) = w(g(n)) then,
+
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/833726a8-3e85-4d1a-9a76-d6f05dbd436c)
+
+f(n) > c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
