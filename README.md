@@ -76,3 +76,6 @@ Solution :
 * Now, i<=N -> 1+xk = N -> x = N-1/k
 * Hence, Total time = (kt*(N-1))/k = t(N-1)
 * Ignoring constants (1 & t), time complexity = O(N)                      
+---
+
+## COMPLEXITY ANALYSIS OF RECURSIVE ALGORITHMS :
