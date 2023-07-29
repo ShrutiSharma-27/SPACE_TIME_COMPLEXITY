@@ -63,4 +63,16 @@ f(n) > c.g(n) [strict inequality and stronger statement than that of big-O] wher
 ## SPACE COMPLEXITY :
 
 1. It is input space + auxiliary space (extra space or the temporary space taken by an algorithm)
-2. We mostly/always talk about auxiliary space because it makes us to do better comparison among different standard algorithms that have same space complexity.
+2. We mostly/always talk about auxiliary space because it makes us to do better comparison among different standard algorithms which have same input size that in turn means same space complexity.
+
+Elaboration : if we want to consider standard sorting algorihtms on the basis of space, then auxiliary space would be a better criteria than space complexity. Merge sort uses O(N) auxiliary space, Insertion sort and Heap sort use O(1) auxiliary space. Space complexity of all these sorting algorithms is O(N) though.
+3. 
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/63501b79-5b30-42da-9826-a8a069b77c9e)
+
+Solution : 
+* Time taken by inner loop = kt
+* Total time = kt*(No. of times outer loop will execute)
+* i = 1, 1+k, 1+2k, 1+3k,...1+xk (lets say it reaches base condition i<=N in x steps)
+* Now, i<=N -> 1+xk = N -> x = N-1/k
+* Hence, Total time = (kt*(N-1))/k = t(N-1)
+* Ignoring constants (1 & t), time complexity = O(N)                      
