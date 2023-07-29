@@ -59,6 +59,7 @@ f(n) < c.g(n) [strict inequality and stronger statement than that of big-O] wher
 
 f(n) > c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
 ---
+
 ## SPACE COMPLEXITY :
 
 1. It is input space + auxiliary space (extra space or the temporary space taken by an algorithm)
