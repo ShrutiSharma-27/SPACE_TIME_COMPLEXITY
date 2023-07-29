@@ -58,7 +58,7 @@ f(n) < c.g(n) [strict inequality and stronger statement than that of big-O] wher
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/833726a8-3e85-4d1a-9a76-d6f05dbd436c)
 
 f(n) > c.g(n) [strict inequality and stronger statement than that of big-O] where n >= nₒ and c>0 & nₒ>=1 are 2 positive constants.
-
+---
 ## SPACE COMPLEXITY :
 
 1. It is input space + auxiliary space (extra space or the temporary space taken by an algorithm)
