@@ -79,3 +79,5 @@ Solution :
 ---
 
 ## COMPLEXITY ANALYSIS OF RECURSIVE ALGORITHMS :
+
+1. Recursive programs don't have constant space complexity as function calls are stored in stack (occupy memory i n stack)
