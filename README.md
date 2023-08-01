@@ -127,3 +127,6 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
          * Example2 which can't be solved by master theorem, recursion tree, etc.
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/f7c1f7de-1435-49ad-825c-b4ac25d4552b)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/4ae79a08-08e5-4d35-a797-8aa6d8c5c898)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c615cb09-81e3-4efd-a766-e3854724699a)
+           Ignoring less dominating term x^2
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/4d9b8045-20af-414b-8382-d22945917077)
