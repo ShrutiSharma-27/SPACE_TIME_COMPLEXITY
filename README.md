@@ -96,5 +96,4 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/51ec2f59-9521-4e56-8006-ca3349eb852d)
 
       Example : Binary Search recurrence form comparison
-      ![image](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/38350248-0f9c-421c-88bb-b94417762d61)
-
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/da459eb8-7706-4f5b-932c-eb6eb38cb599)
