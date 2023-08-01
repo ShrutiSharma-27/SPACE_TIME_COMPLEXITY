@@ -103,3 +103,7 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
 
    3. WHAT IS g(n) ?
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/0b63aede-eb88-4fcb-a926-9616092e1d3e)
+
+      So, the time taken to do something with obtained answer(s) to reach the final solution is represented by g(n).
+
+      The above equation is for merge sort where N/2 to sort half array, N/2 to sort another half array contributes to 2T(N/2) while after this these 2 arrays (of size N/2 & N/2) got merged where N-1 comparisons are made which contributes to g(n) = N-1.
