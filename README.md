@@ -120,5 +120,5 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
          ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cfd2a946-66ac-417a-9058-641e6cef0b17)
          * Example of Merge sort complexity by Akra-Bazzi formula :
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/66e33924-3203-44bd-9aa5-6f2bf5e0acac)
-           ![image](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/fe83b28f-e93e-4644-ad31-e4ec8c3e223e)
-
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/8f0bf34e-7e16-4931-a717-3670d6248ad0)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/55602f71-fb7c-403b-b5e9-cf642994f4be)
