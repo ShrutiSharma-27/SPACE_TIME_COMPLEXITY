@@ -136,3 +136,6 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
            So, I need to increase the power !
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/b786325e-ca28-49c5-916d-0190dc359246)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d6a10271-50a6-4314-8a5f-0006ef70b7b8)
+           Now, I need to decrease the denominator so as to increase the value of fraction => p needs to be decrease !
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/41d7e993-5380-4fde-887b-789b0299e3b9)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/1d75e801-8793-4f2d-a4f4-553cb0af062a)
