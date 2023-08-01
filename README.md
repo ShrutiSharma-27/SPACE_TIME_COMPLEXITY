@@ -118,8 +118,12 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
          The g(u) you can take simpler by removing constants.
          
          ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cfd2a946-66ac-417a-9058-641e6cef0b17)
-         * Example of Merge sort complexity by Akra-Bazzi formula :
+         * Example1 of Merge sort complexity by Akra-Bazzi formula :
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/66e33924-3203-44bd-9aa5-6f2bf5e0acac)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/8f0bf34e-7e16-4931-a717-3670d6248ad0)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/55602f71-fb7c-403b-b5e9-cf642994f4be)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/9e957b67-b741-4fe2-a8b2-dc62ae136aa6)
+           Hence, for an array of size N, the time complexity for merge sort is θ(NlogN)
+         * Example2 which can't be solved by master theorem, recursion tree, etc.
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/f7c1f7de-1435-49ad-825c-b4ac25d4552b)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/4ae79a08-08e5-4d35-a797-8aa6d8c5c898)
