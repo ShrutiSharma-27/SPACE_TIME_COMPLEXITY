@@ -102,3 +102,4 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/1a216ccf-5f03-451f-a296-3c294d6dc00d)
 
    3. WHAT IS g(n) ?
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/0b63aede-eb88-4fcb-a926-9616092e1d3e)
