@@ -81,3 +81,8 @@ Solution :
 ## COMPLEXITY ANALYSIS OF RECURSIVE ALGORITHMS :
 
 1. Recursive programs don't have constant space complexity as function calls are stored in stack (occupy memory i n stack)
+2. At any partucular point of time, no 2 function calls at same level of recursion tree will be in the stack at the same time
+> Only calls that are interlinked with each other will be in the stack at the same time.
+3. Space complexity : height of the tree (longest chain in the recursion tree).
+
+![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/a88d58a6-4325-4292-af1b-2dd56e94c86e)
