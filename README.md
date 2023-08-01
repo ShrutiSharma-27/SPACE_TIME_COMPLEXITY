@@ -101,9 +101,18 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       Example 2 :
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/1a216ccf-5f03-451f-a296-3c294d6dc00d)
 
-   3. WHAT IS g(n) ?
+   2. WHAT IS g(n) ?
+      When the recursion call is over, then afterwards the amount of time comlexity required to do actually sth with those recursion calls that are now over. Extra time required at that step, basically.
+    
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/0b63aede-eb88-4fcb-a926-9616092e1d3e)
 
       So, the time taken to do something with obtained answer(s) to reach the final solution is represented by g(n).
 
       The above equation is for merge sort where N/2 to sort half array, N/2 to sort another half array contributes to 2T(N/2) while after this these 2 arrays (of size N/2 & N/2) got merged where N-1 comparisons are made which contributes to g(n) = N-1.
+
+   3. HOW TO SOLVE & GET COMPLEXITY ?
+      1. PLUG & CHUG (not recommended)
+      2. MASTER THEOREM (done in 4th sem, have Nonita ma'am notes)
+      3. AKRA-BAZZI FORMULA/THEOREM (Best way, you can solve any conquer & divide recurrence relation, 1996)
+         ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7b3a8a42-eb5a-40e9-820e-7bc3557772ae)
+         ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cfd2a946-66ac-417a-9058-641e6cef0b17)
