@@ -141,4 +141,7 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/1d75e801-8793-4f2d-a4f4-553cb0af062a)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/298c4e66-9d27-4bbb-ad1e-b9eb887d3e87)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/bda9533a-3788-4c30-a6e7-b2c15a4f313e)
-5. LINEAR RECURRENCES
+5. LINEAR RECURRENCES :
+   1. FORM :
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7c7c0373-89d6-4a57-821f-f91425e1b6b2)
+
