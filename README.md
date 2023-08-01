@@ -115,4 +115,7 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       2. MASTER THEOREM (done in 4th sem, have Nonita ma'am notes)
       3. AKRA-BAZZI FORMULA/THEOREM (Best way, you can solve any conquer & divide recurrence relation, 1996)
          ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7b3a8a42-eb5a-40e9-820e-7bc3557772ae)
+         The g(u) you can take simpler by removing constants.
+         
          ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cfd2a946-66ac-417a-9058-641e6cef0b17)
+             
