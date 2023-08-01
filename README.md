@@ -130,3 +130,9 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c615cb09-81e3-4efd-a766-e3854724699a)
            Ignoring less dominating term x^2
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/4d9b8045-20af-414b-8382-d22945917077)
+         * Example3 : If you CAN'T find the value of 'p'
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/66a92e26-0585-49d9-8536-efee3a71f07f)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/117f7b3c-80d8-4985-99fe-37c25bcf488e)
+           So, I need to increase the power !
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/b786325e-ca28-49c5-916d-0190dc359246)
+           ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d6a10271-50a6-4314-8a5f-0006ef70b7b8)
