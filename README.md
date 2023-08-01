@@ -95,5 +95,10 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
    1. FORM : First, how'll you identify that whether an equation of divide & conquer form or not ?
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/51ec2f59-9521-4e56-8006-ca3349eb852d)
 
-      Example : Binary Search recurrence form comparison
+      Example 1 : Binary Search recurrence form comparison
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/da459eb8-7706-4f5b-932c-eb6eb38cb599)
+
+      Example 2 :
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/1a216ccf-5f03-451f-a296-3c294d6dc00d)
+
+   3. WHAT IS g(n) ?
