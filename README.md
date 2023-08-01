@@ -92,6 +92,5 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
 ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/a88d58a6-4325-4292-af1b-2dd56e94c86e)
 
 4. DIVIDE AND CONQUER RECURRENCES :
-   1. FORM
-      - First, how'll you identify that whether an equation of divide & conquer form or not ?
-        ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d0a68f9c-69e2-4c73-ad5a-5099388f3aa6)
+   1. FORM : First, how'll you identify that whether an equation of divide & conquer form or not ?
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d0a68f9c-69e2-4c73-ad5a-5099388f3aa6)
