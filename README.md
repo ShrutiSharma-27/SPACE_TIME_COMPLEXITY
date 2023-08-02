@@ -149,3 +149,4 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       ![Document 76_1_pg1](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/9a18d9cc-eecc-4a85-9c7d-92528e0aa2ce)
       ![Document 76_2_pg2](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/8202c344-cd83-4575-ae4c-63b973986965)
       ![Document 76_3_pg3](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/ad102750-31d0-4eb5-97e8-ef7937bbf969)
+      This exponential time complexity (very bad) is the reason why recursive program for N=50 (even for such small number) wasn't able to give the answer.
