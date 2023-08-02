@@ -153,5 +153,5 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
 
       Example 2 : Equal Roots
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/14b71ab7-5596-4f95-8d15-83d20b2eb6bd)
-      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/3c192af8-30ac-489e-88b2-9da8ed9a6452)
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/bbf7368f-7a96-43a5-827d-5adc99c25b52)
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c4700518-a95f-4def-a785-1d99d74c5d6d)
