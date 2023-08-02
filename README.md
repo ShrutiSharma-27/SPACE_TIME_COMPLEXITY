@@ -145,3 +145,7 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
    1. FORM :
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7c7c0373-89d6-4a57-821f-f91425e1b6b2)
 
+      Example 1 : Fibonacci Series
+      ![Document 76_1_pg1](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/9a18d9cc-eecc-4a85-9c7d-92528e0aa2ce)
+      ![Document 76_2_pg2](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/8202c344-cd83-4575-ae4c-63b973986965)
+      ![Document 76_3_pg3](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/ad102750-31d0-4eb5-97e8-ef7937bbf969)
