@@ -6,6 +6,7 @@ public class Recursion_FibonacciFormula {
 
     static int fiboFormula(int n){
         //can remove this less dominating term : Math.pow((1-Math.sqrt(5))/2,n)
+        //just for demo, use long instead because the number will exceed the int range.
         int ans = (int) ((Math.pow((1+Math.sqrt(5))/2,n) + Math.pow((1-Math.sqrt(5))/2,n))/Math.sqrt(5));
         return ans;
     }
