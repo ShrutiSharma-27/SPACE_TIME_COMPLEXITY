@@ -152,6 +152,6 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       This exponential time complexity (very bad) is the reason why recursive program for N=50 (even for such small number) wasn't able to give the answer.
 
       Example 2 : Equal Roots
-      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/14b71ab7-5596-4f95-8d15-83d20b2eb6bd)
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/0f28a846-1bdc-429e-8064-e7ff54018b2b)
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/bbf7368f-7a96-43a5-827d-5adc99c25b52)
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c4700518-a95f-4def-a785-1d99d74c5d6d)
