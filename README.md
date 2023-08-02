@@ -142,7 +142,8 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/298c4e66-9d27-4bbb-ad1e-b9eb887d3e87)
            ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/bda9533a-3788-4c30-a6e7-b2c15a4f313e)
 5. LINEAR RECURRENCES :
-   1. FORM :
+   1. HOMOGENEOUS LINEAR RECURRENCE RELATION (where you don't have separate/extra function g(x))
+   * FORM :
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/7c7c0373-89d6-4a57-821f-f91425e1b6b2)
 
       Example 1 : Fibonacci Series
@@ -157,3 +158,10 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/c4700518-a95f-4def-a785-1d99d74c5d6d)
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/2d7321cf-53f2-45ba-af76-18998061b4c3)
       ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d690ad5e-cbc4-406d-a237-280ea9baf1f5)
+      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/af939919-b8a5-45b1-a41c-0a46a8471106)
+   2. NON_HOMOGENEOUS LINEAR RECURRENCE RELATION (where you've g(x))
+   * FORM :
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d54e6f19-f444-4096-b537-13f1db2ad552)
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/f2824fef-c6f5-463a-b9f8-fdc8aae3de05)
+     Put 3^n = 0
+     ![image](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/57f98b5c-bca3-4ab3-a570-3a929bcde82f)
