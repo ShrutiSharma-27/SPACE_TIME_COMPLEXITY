@@ -164,4 +164,6 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d54e6f19-f444-4096-b537-13f1db2ad552)
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/f2824fef-c6f5-463a-b9f8-fdc8aae3de05)
      Put 3^n = 0
-     ![image](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/57f98b5c-bca3-4ab3-a570-3a929bcde82f)
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/01c0ad82-ebce-446d-b1d4-0663b4c0a451)
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e8efbc47-cd28-4850-a98d-5392c2ddc8ae)
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cd80be9d-f5da-45dd-8758-d5302e82fcd6)
