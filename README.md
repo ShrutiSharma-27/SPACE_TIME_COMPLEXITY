@@ -174,3 +174,16 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
 
      After putting value of c1 in original equation :
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/5cae2a62-6d99-4dff-a844-1265c2b8f311)
+
+     > How do we guess a particular solution?
+     * if g(n) is expinenetial, guess of same type.
+       
+       Example : g(n) = 2^n +3^n, Guess : f(n) = a2^n + b3^n
+     * if g(n) is polynomial, guess of same degree.
+       
+       Example : g(n) = n^2 - 1, Guess : f(n) = an^2 + bn + c
+     * if g(n) is combination of exponent and polynomial, guess accordingly.
+       
+       Example : g(n) = 2^n + n, Guess : f(n) = a2^n + (bn + c)
+
+     > Let's say, you guessed f(n) = a2^n and if fails then try (an + b)2^n, if this also fails  increase the degree (an^2 + bn + c)2^n and so on. 
