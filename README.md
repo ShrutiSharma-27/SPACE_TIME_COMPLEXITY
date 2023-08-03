@@ -196,3 +196,6 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
     
     Hence, f(n) = n2^n    //particular solution
     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e00ef2e2-ffac-4324-a1f2-af386266745f)
+    Time Complexity  = O(n2^n)
+
+    > NP Problems (P=NP or not) : The problems that can be verified (whether the solution is correct or not) in polynomial time (if you can, its okay) but can these problems be solved in polynomial time? No one knows right now
