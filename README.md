@@ -169,3 +169,4 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/01c0ad82-ebce-446d-b1d4-0663b4c0a451)
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e8efbc47-cd28-4850-a98d-5392c2ddc8ae)
      ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/cd80be9d-f5da-45dd-8758-d5302e82fcd6)
+     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/d84bf61e-8f4d-42ca-bba6-f57f9abef2a6)
