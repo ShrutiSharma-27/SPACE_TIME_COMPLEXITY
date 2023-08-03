@@ -191,3 +191,8 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/6c7ac5b9-598c-4dde-9e59-f57a867ae5b7)
     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/a8b3481e-b8ac-4aa7-aa0f-f21521337837)
     ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e3efc3bd-d80c-4853-a106-fe1afc538fb9)
+    ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/bf6322d2-9e95-4750-8fe9-555acaed1e73)
+    Discard b as there's no way you can get it
+    
+    Hence, f(n) = n2^n    //particular solution
+    ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e00ef2e2-ffac-4324-a1f2-af386266745f)
