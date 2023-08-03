@@ -187,3 +187,7 @@ Space complexity (auxiliary space complexity) - O(N), as for Nth element, max N 
        Example : g(n) = 2^n + n, Guess : f(n) = a2^n + (bn + c)
 
      > Let's say, you guessed f(n) = a2^n and if fails then try (an + b)2^n, if this also fails  increase the degree (an^2 + bn + c)2^n and so on. 
+  * Example :
+    ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/6c7ac5b9-598c-4dde-9e59-f57a867ae5b7)
+    ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/a8b3481e-b8ac-4aa7-aa0f-f21521337837)
+    ![gitpaste](https://github.com/ShrutiSharma-27/SPACE_TIME_COMPLEXITY/assets/53565103/e3efc3bd-d80c-4853-a106-fe1afc538fb9)
